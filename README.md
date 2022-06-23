@@ -14,7 +14,7 @@
 </div>
 
 ---
-### 👨‍💻 : About Me :
+### 👨‍💻 About Me :
 
 I am a trainee full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, England.
 
@@ -24,7 +24,7 @@ I am a trainee full Stack Developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I like to DJ, play football and game...mainly game 🙃
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/George-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-miller-mccall-895711169/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/George-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-miller-mccall-895711169/)
 
 ---
 
